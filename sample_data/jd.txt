@@ -1,0 +1,14 @@
+Software Engineer Intern
+
+Required Skills:
+Docker
+AWS
+Redis
+Microservices
+Kubernetes
+CI/CD
+
+Responsibilities:
+Build scalable web applications.
+Develop APIs.
+Work with databases.

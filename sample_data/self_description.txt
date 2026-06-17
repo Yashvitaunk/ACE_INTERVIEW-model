@@ -1,0 +1,7 @@
+I am a B.Tech Computer Science student with experience in full-stack web development using React.js, Node.js, Express.js, and MongoDB.
+
+I have built projects involving REST APIs, authentication systems, and database management.
+
+I am comfortable with Java, Python, Git, and problem-solving. I am currently improving my knowledge of system design, cloud technologies, and software engineering best practices.
+
+I am looking for a Software Engineer role where I can apply my development skills and continue learning scalable application development.
